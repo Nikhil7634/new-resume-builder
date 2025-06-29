@@ -207,4 +207,10 @@ textarea {
   .form-section{
     zoom: 0.7;
   }
+  .hero-section {
+    zoom: 0.7;
+  }
+  .cta-section {
+    zoom: 0.8;
+  }
 }
